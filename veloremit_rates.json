@@ -1,10 +1,10 @@
 {
     "provider": "veloremit",
-    "timestamp": "2026-06-27 08:50",
+    "timestamp": "2026-06-27 11:04",
     "rates": {
-        "GBP_GHS": 15.32,
-        "GBP_NGN": 1845.1,
+        "GBP_GHS": 15.2,
+        "GBP_NGN": 1840.1,
         "CAD_NGN": 982.1,
-        "CAD_GHS": 8.42
+        "CAD_GHS": 8.12
     }
 }

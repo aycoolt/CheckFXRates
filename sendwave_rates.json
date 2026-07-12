@@ -1,17 +1,17 @@
 {
     "provider": "Sendwave",
-    "last_updated": "2026-07-12 22:10:20",
+    "last_updated": "2026-07-12 23:11:42",
     "rates": {
-        "GBP_NGN": "1850.93",
+        "GBP_NGN": "1850.72",
         "GBP_GHS": "15.34",
-        "GBP_INR": "126.99",
+        "GBP_INR": "126.97",
         "USD_NGN": "1381",
         "USD_GHS": "11.45",
         "USD_INR": "94.85",
-        "CAD_NGN": "970.03",
+        "CAD_NGN": "970.05",
         "CAD_GHS": "8.06",
         "CAD_INR": "66.9",
-        "EUR_NGN": "1573.36",
+        "EUR_NGN": "1573.39",
         "EUR_GHS": "13.08",
         "EUR_INR": "108.16"
     }
